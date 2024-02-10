@@ -3,6 +3,10 @@ Copyright (C) 2023 The LineageOS Project
 Device configuration for Xiaomi Redmi Note 12 4G/12 4G NFC
 =========================================
 
+## Device picture
+
+![Xiaomi Redmi Note 12 4G](https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-note-12-4g-2.jpg "Xiaomi Redmi Note 12 4G")
+
 The Xiaomi Redmi Note 12 4G/12 4G NFC (codenamed _"tapas/topaz"_) is a mid-range smartphone from Xiaomi.
 
 Redmi Note 12 4G was announced and released in March 2023.
@@ -27,6 +31,4 @@ Redmi Note 12 4G was announced and released in March 2023.
 | Rear camera 3 | 2 MP, f/2.4, (macro)                               |
 | Front camera  | 13 MP, f/2.5, (wide), 1/3.0"                    |
 
-## Device picture
 
-![Xiaomi Redmi Note 12 4G](https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-note-12-4g-2.jpg "Xiaomi Redmi Note 12 4G")
